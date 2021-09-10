@@ -31,8 +31,13 @@ make sure colors on website are not too hard on someone's eyes
 make sure to write things underthe hood that won't show on the site but are for the means of accessibility 
 
 3. How would you explain the concept of a variable to someone new to programming?
+there are 3 variables and the most useful ones are let and const because var can break code, also vaariables are fundamental building blocks of JS they are a way to store value that you can reference back and retrieve later on your program 
+
 4. What is the purpose of using functions in code?
+functions are a way to protect a block of code until they are invoked
+
 5. How do you access a key inside of an object inside of an array?
+this.key
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
